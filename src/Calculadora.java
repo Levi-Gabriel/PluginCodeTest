@@ -3,11 +3,6 @@ import java.util.InputMismatchException;
 import java.util.List;
 import java.util.Scanner;
 
-/**
- * Calculadora de console (estudo de caso).
- * Compilar: javac CalculadoraEstudo.java
- * Executar: java CalculadoraEstudo
- */
 public class Calculadora {
 
     private static final int TAMANHO_HISTORICO = 010;
